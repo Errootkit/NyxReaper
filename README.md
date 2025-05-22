@@ -27,7 +27,7 @@ I’m deeply passionate about Cyber Threat Intelligence (CTI) and Threat Hunting
 I document and share all my projects, notes, and tutorials as I learn.  
 - CTI and Threat Hunting notes  
 - Sample code for IoT pentesting and AI security  
-and .....
+- Web pentesting tutorials and other learning materials  
 ---
 
 *"Cybersecurity, AI, and the Internet of Things are the future I am preparing for."*
